@@ -21,7 +21,7 @@ Shu Li, Libo Liu,
   <a href="https://arxiv.org/abs/2602.04406">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
-  <a href="https://github.com/gobunu/LCUDiff/releases/download/Paper/supp.pdf">
+  <a href="https://github.com/gobunu/LCUDiff/releases/download/Paper/LCUDiff_supp.pdf">
     <img src="https://img.shields.io/badge/Supplementary_material-Paper-orange.svg">
   </a>
   <a href="https://github.com/gobunu/LCUDiff/releases">
