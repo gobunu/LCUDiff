@@ -51,20 +51,22 @@ Shu Li, Libo Liu,
 
 ---
 
+<p align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://imgsli.com/NDQ3ODA2"><img src="images/val1.png" height="300"/></a><br>
-      <a href="https://imgsli.com/NDQ3ODA3"><img src="images/val2.png" height="300"/></a><br>
+      <a href="https://imgsli.com/NDQ3ODA2"><img src="images/val1.png" height="250"/></a><br>
+      <a href="https://imgsli.com/NDQ3ODA3"><img src="images/val2.png" height="250"/></a><br>
       <b>PERSONA-Val</b>
     </td>
     <td align="center">
-      <a href="https://imgsli.com/NDQ3ODA0"><img src="images/test1.png" height="300"/></a><br>
-      <a href="https://imgsli.com/NDQ3ODA1"><img src="images/test2.png" height="300"/></a><br>
+      <a href="https://imgsli.com/NDQ3ODA0"><img src="images/test1.png" height="250"/></a><br>
+      <a href="https://imgsli.com/NDQ3ODA1"><img src="images/test2.png" height="250"/></a><br>
       <b>MPII-Test</b>
     </td>
   </tr>
 </table>
+</p>
 
 
 
